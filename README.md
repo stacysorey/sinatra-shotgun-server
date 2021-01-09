@@ -54,7 +54,7 @@ Now add some more text to the string in the controller action:
 
 ```ruby
   get '/' do
-    "Welcome to your app!!!! I BUILT THIS!"
+    "Welcome to your app!!!! I BUILT THIS! "
   end
 ```
 
